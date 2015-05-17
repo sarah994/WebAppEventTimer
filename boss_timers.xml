@@ -1,0 +1,865 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"?>
+<bosses>
+ <boss>
+   <nr>0</nr>
+   <name>Admiral Taidha Covington</name>
+   <utc>00:00:00</utc>
+   <image_pre>Behemoth_pre.jpg</image_pre>
+   <image_location>behemoth_location.jpg</image_location>
+   <image_boss>Behemoth_boss.jpg</image_boss>
+ </boss>
+
+ <boss>
+   <nr>1</nr>
+   <name>Svanir Shaman</name>
+   <utc>00:15:00</utc>
+   <image_pre></image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>2</nr>
+   <name>Megadestroyer</name>
+   <utc>00:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>3</nr>
+   <name>Fire Elemental</name>
+   <utc>00:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>4</nr>
+   <name>The Shatterer</name>
+   <utc>01:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>5</nr>
+   <name>Greate Jungle wurm</name>
+   <utc>01:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>6</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>01:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>7</nr>
+   <name>Shadow Behemoth</name>
+   <utc>01:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>8</nr>
+   <name>Golem Mark ||</name>
+   <utc>02:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>9</nr>
+   <name>Svanir Shaman</name>
+   <utc>02:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>10</nr>
+   <name>Claw of Jormag</name>
+   <utc>02:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>11</nr>
+   <name>Fire Elemental</name>
+   <utc>02:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>12</nr>
+   <name>Taidha Covington</name>
+   <utc>3:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>13</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>03:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>14</nr>
+   <name>Megadestroyer</name>
+   <utc>03:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+ <boss>
+   <nr>15</nr>
+   <name>Shadow Behemoth</name>
+   <utc>03:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>16</nr>
+   <name>The Shatterer</name>
+   <utc>04:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>17</nr>
+   <name>Svanir Shaman</name>
+   <utc>04:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>18</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>04:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>19</nr>
+   <name>Fire Elemental</name>
+   <utc>04:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>20</nr>
+   <name>Golem Mark ||</name>
+   <utc>05:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>21</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>05:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>22</nr>
+   <name>Claw of Jormag</name>
+   <utc>05:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>23</nr>
+   <name>Shadow Behemoth</name>
+   <utc>05:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>24</nr>
+   <name>Taidha Covington</name>
+   <utc>06:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>25</nr>
+   <name>Svanir Shaman</name>
+   <utc>06:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+</boss>
+
+ <boss>
+   <nr>26</nr>
+   <name>Megadestroyer</name>
+   <utc>06:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>27</nr>
+   <name>Fire Elemental</name>
+   <utc>06:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>28</nr>
+   <name>The Shatterer</name>
+   <utc>07:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>29</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>07:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>30</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>07:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>31</nr>
+   <name>Shadow Behemoth</name>
+   <utc>07:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>32</nr>
+   <name>Golem Mark ||</name>
+   <utc>08:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>33</nr>
+   <name>Svanir Shaman</name>
+   <utc>08:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>34</nr>
+   <name>Claw of Jormag</name>
+   <utc>08:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>35</nr>
+   <name>Fire Elemental</name>
+   <utc>08:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>36</nr>
+   <name>Taidha Covington</name>
+   <utc>09:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>37</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>09:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>38</nr>
+   <name>Megadestroyer</name>
+   <utc>09:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>39</nr>
+   <name>Shadow Behemoth</name>
+   <utc>09:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>40</nr>
+   <name>The Shatterer</name>
+   <utc>10:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>41</nr>
+   <name>Svanir Shaman</name>
+   <utc>10:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>42</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>10:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>43</nr>
+   <name>Fire Elemental</name>
+   <utc>10:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>44</nr>
+   <name>Golem Mark ||</name>
+   <utc>11:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>45</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>11:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>46</nr>
+   <name>Claw of Jormag</name>
+   <utc>11:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>47</nr>
+   <name>Shadow Behemoth</name>
+   <utc>11:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>48</nr>
+   <name>Taidha Covington</name>
+   <utc>12:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>49</nr>
+   <name>Svanir Shaman</name>
+   <utc>12:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>50</nr>
+   <name>Megadestroyer</name>
+   <utc>12:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>51</nr>
+   <name>Fire Elemental</name>
+   <utc>12:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>52</nr>
+   <name>The Shatterer</name>
+   <utc>13:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>53</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>13:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>54</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>13:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>55</nr>
+   <name>Shadow Behemoth</name>
+   <utc>13:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>56</nr>
+   <name>Golem Mark ||</name>
+   <utc>14:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>57</nr>
+   <name>Svanir Shaman</name>
+   <utc>14:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>58</nr>
+   <name>Claw of Jormag</name>
+   <utc>14:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>59</nr>
+   <name>Fire Elemental</name>
+   <utc>14:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>60</nr>
+   <name>Taidha Covington</name>
+   <utc>15:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>61</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>15:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>62</nr>
+   <name>Megadestroyer</name>
+   <utc>15:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>63</nr>
+   <name>Shadow Behemoth</name>
+   <utc>15:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>64</nr>
+   <name>The Shatterer</name>
+   <utc>16:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>65</nr>
+   <name>Svanir Shaman</name>
+   <utc>16:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>66</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>16:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>67</nr>
+   <name>Fire Elemental</name>
+   <utc>16:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>68</nr>
+   <name>Golem Mark ||</name>
+   <utc>17:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>69</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>17:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+ <boss>
+   <nr>70</nr>
+   <name>Claw of Jormag</name>
+   <utc>17:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>71</nr>
+   <name>Shadow Behemoth</name>
+   <utc>17:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>72</nr>
+   <name>Taidha Covington</name>
+   <utc>18:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>73</nr>
+   <name>Svanir Shaman</name>
+   <utc>18:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>74</nr>
+   <name>Megadestroyer</name>
+   <utc>18:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>75</nr>
+   <name>Fire Elemental</name>
+   <utc>18:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>76</nr>
+   <name>The Shatterer</name>
+   <utc>19:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>77</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>19:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>78</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>19:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>79</nr>
+   <name>Shadow Behemoth</name>
+   <utc>19:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>80</nr>
+   <name>Golem Mark ||</name>
+   <utc>20:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+</boss>
+
+ <boss>
+   <nr>81</nr>
+   <name>Svanir Shaman</name>
+   <utc>20:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>82</nr>
+   <name>Claw of Jormag</name>
+   <utc>20:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>83</nr>
+   <name>Fire Elemental</name>
+   <utc>20:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>84</nr>
+   <name>Taidha Covington</name>
+   <utc>21:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>85</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>21:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>86</nr>
+   <name>Megadestroyer</name>
+   <utc>21:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>87</nr>
+   <name>Shadow Behemoth</name>
+   <utc>21:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>88</nr>
+   <name>The Shatterer</name>
+   <utc>22:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>89</nr>
+   <name>Svanir Shaman</name>
+   <utc>22:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>90</nr>
+   <name>Modniir Ulgoth</name>
+   <utc>22:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>91</nr>
+   <name>Fire Elemental</name>
+   <utc>22:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>92</nr>
+   <name>Golem Mark ||</name>
+   <utc>23:00:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+<boss>
+   <nr>93</nr>
+   <name>Great Jungle Wurm</name>
+   <utc>23:15:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>94</nr>
+   <name>Claw of Jormag</name>
+   <utc>23:30:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+
+ <boss>
+   <nr>95</nr>
+   <name>Shadow Behemoth</name>
+   <utc>23:45:00</utc>
+   <image_pre> </image_pre>
+   <image_location> </image_location>
+   <image_boss> </image_boss>
+ </boss>
+</bosses>
