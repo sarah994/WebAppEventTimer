@@ -1,0 +1,79 @@
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\App.g.cs
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\MainPage.g.cs
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.g.resources
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.Resources.AppResources.resources
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.csproj.GenerateResource.Cache
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\ApplicationIcon.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.dll
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.pdb
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\AppManifest.xaml
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Properties\WMAppManifest.xml
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer_Debug_AnyCPU.xap
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.dll
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.pdb
+E:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\XapCacheFile.xml
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\App.g.cs
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\MainPage.g.cs
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.g.resources
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.Resources.AppResources.resources
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.csproj.GenerateResource.Cache
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.dll
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.pdb
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\ApplicationIcon.png
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.dll
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.pdb
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\AppManifest.xaml
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Properties\WMAppManifest.xml
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer_Debug_AnyCPU.xap
+F:\WebApp_Proj\GuildWars2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\XapCacheFile.xml
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Assets\ApplicationIcon.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.dll
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.pdb
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\AppManifest.xaml
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\Properties\WMAppManifest.xml
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer_Debug_AnyCPU.xap
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\App.g.cs
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\MainPage.g.cs
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.g.resources
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.Resources.AppResources.resources
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.csproj.GenerateResource.Cache
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.dll
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.pdb
+E:\WebApp_Proj\GuildWars2WorldBossTimer - kopie\GuildWars2WorldBossTimer\obj\Debug\XapCacheFile.xml
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\ApplicationIcon.png
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.dll
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer.pdb
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\AppManifest.xaml
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\Properties\WMAppManifest.xml
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\GuildWars2WorldBossTimer_Debug_AnyCPU.xap
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\App.g.cs
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\MainPage.g.cs
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.g.resources
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.Resources.AppResources.resources
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.csproj.GenerateResource.Cache
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.dll
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.pdb
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\XapCacheFile.xml
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\FileIO.dll
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\Bin\Debug\FileIO.pdb
+E:\WebApp_Proj\Gw2WorldBossTimer\GuildWars2WorldBossTimer\obj\Debug\GuildWars2WorldBossTimer.csprojResolveAssemblyReference.cache
